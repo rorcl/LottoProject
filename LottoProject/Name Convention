@@ -1,0 +1,41 @@
+Hi Guys,
+Could we suggest names here for both classes and for variables. Aftr we like the list we will choose which one is better.
+
+Project classes
+LotteryRandom - to generate the six random numbers
+LoterryGame - to get a game from users
+LotterySummary - to display all requirements in paragraph 3 of the spec
+LotteryApp - to run the application
+Anything else we find crucial to the project
+
+
+
+Variables and data type
+Class LotteryRandom 
+private int secretLotteryNumbers = 0;//holds value for each random numbers
+private int[] numbers;//to hold collection of secret numbers
+int count; // counter for while loop and if statement
+int mached;// counter for repeated numbers
+Bollean match
+
+
+Class LotteryGame
+int[] playerNumbers; //allows player to input their lottery numbers
+int numbersPicked; //displays the number that were chosen by player on a line
+ 
+
+
+
+Class LotterySummary
+int amountNumbersGuessed
+int ammountNumbersGuessedCorrectly
+int numberOfPlayedLines
+int numberOfWinLines
+int totalOfWinning
+int totalNumberOfPlayedGames
+int avgOfWinningPlayedGames
+
+
+LotteryApp
+int secretLotteryNumbers
+int numbers[]
