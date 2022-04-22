@@ -1,2 +1,2 @@
 # LottoProject 
-Software Development in Java
+Software Development
