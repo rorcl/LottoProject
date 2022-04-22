@@ -1,2 +1,2 @@
-# LottoProject
+# LottoProject Java
 Software Development
